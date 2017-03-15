@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# References
+# https://superuser.com/questions/164553/automatically-answer-yes-when-using-apt-get-install
+
+# Enable workspaces
+# http://askubuntu.com/questions/260510/how-do-i-turn-on-workspaces-why-do-i-only-have-one-workspace
+
+# Enables "open in terminal" from the context menu
+# http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu
+sudo apt-get -y install nautilus-open-terminal
+
+# http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get -y install sublime-text-installer
