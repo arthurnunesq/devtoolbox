@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Copy files from the devtoolbox as symbolic links to the user bin folder.
+# https://superuser.com/a/244647/149826
+SRC_FILE=$1
+DST_FILE=$2
+
+paps $SRC_FILE | ps2pdf - $DST_FILE
+
+

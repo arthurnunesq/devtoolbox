@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/arthur/src/devtoolbox"
+	],
+	"file_history":
+	[
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_02/arthur_queiroz_exe_list_module_02.txt",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/arthur_queiroz_exe_list_01.txt",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/compilation",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_06/compilation",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/modified/p4.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/cheatsheet.txt",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/modified/p3.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/modified/p2.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/modified/p1.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/modified/compilation",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/original/compilation",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/original/p1.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/original/p2.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/original/p3.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/original/p4.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_06/exe_06.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/p4.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/p3.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/p2.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_07/p1.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_06/exe06.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix2/p.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix2/a.h",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix2/a.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix1/q.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix1/p.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix1/b.h",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/fix1/a.h",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/b.h",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/a.h",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/q.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/p.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_01/compilation",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/program.cpp",
+		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/p1.cpp",
+		"/home/arthur/src/devtoolbox/update_user_bin",
+		"/home/arthur/src/devtoolbox/ubuntu_bootstrap"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "devtoolbox.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
