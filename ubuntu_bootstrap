@@ -26,3 +26,10 @@ sudo apt-get -y install sublime-text-installer
 sudo apt-get install enscript
 # http://unix.stackexchange.com/a/17417/122789
 sudo apt-get install paps
+
+
+# Fixes mouse scroll wheel behavior
+# http://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed
+wget-P ~/Downloads  http://sourceforge.net/projects/resetmsmice/files/resetmsmice_1.1.2-1_amd64.deb/download 
+sudo dpkg -i ~/Downloads/resetmsmice_1.1.2-1_amd64.deb
+resetmsmice

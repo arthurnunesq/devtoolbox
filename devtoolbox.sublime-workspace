@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "text2pdf",
+			"settings":
+			{
+				"buffer_size": 199,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -24,7 +33,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -48,6 +57,7 @@
 	],
 	"file_history":
 	[
+		"/home/arthur/src/devtoolbox/ubuntu_bootstrap",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_02/arthur_queiroz_exe_list_module_02.txt",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/arthur_queiroz_exe_list_01.txt",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/compilation",
@@ -83,8 +93,7 @@
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_01/compilation",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/program.cpp",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/p1.cpp",
-		"/home/arthur/src/devtoolbox/update_user_bin",
-		"/home/arthur/src/devtoolbox/ubuntu_bootstrap"
+		"/home/arthur/src/devtoolbox/update_user_bin"
 	],
 	"find":
 	{
@@ -120,8 +129,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "text2pdf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
