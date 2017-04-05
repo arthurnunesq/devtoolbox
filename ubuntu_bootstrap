@@ -6,8 +6,10 @@
 # Enable workspaces
 # http://askubuntu.com/questions/260510/how-do-i-turn-on-workspaces-why-do-i-only-have-one-workspace
 
+# Various utilities
 sudo apt-get -y install git
-sudo apt-get install ruby
+sudo apt-get -y install ruby
+sudo apt-get -y install xclip
 
 # Enables "open in terminal" from the context menu
 # http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu
@@ -18,14 +20,11 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get -y install sublime-text-installer
 
-# Jekyil for editing ubuntu pages
-#gem install jekyll
-
 # Tools for converting text to pdf
 # http://askubuntu.com/a/27112/430572
-sudo apt-get install enscript
+sudo apt-get -y install enscript
 # http://unix.stackexchange.com/a/17417/122789
-sudo apt-get install paps
+sudo apt-get -y install paps
 
 
 # Fixes mouse scroll wheel behavior
@@ -43,8 +42,8 @@ resetmsmice
 # http://askubuntu.com/questions/618474/how-to-install-the-latest-gcurrently-5-1-in-ubuntucurrently-14-04
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 sudo apt-get update
-sudo apt-get install g++-4.9
-sudo apt-get install g++-5
+sudo apt-get -y install g++-4.9
+sudo apt-get -y install g++-5
 # After installing, the default version must be configured manually:
 # http://askubuntu.com/a/26518/430572
 sudo update-alternatives --remove-all gcc 
@@ -60,3 +59,8 @@ sudo update-alternatives --set cc /usr/bin/gcc
 sudo update-alternatives --install /usr/bin/c++ c++ /usr/bin/g++ 30
 sudo update-alternatives --set c++ /usr/bin/g++
 switch_gcc 5
+
+# https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+# https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+# http://stackoverflow.com/questions/3659602/bash-script-for-generating-ssh-keys
+yes "y" | ssh-keygen -t rsa -b 4096 -C "arthurnunesq@gmail.com"

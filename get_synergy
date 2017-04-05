@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# https://github.com/symless/synergy/wiki/Source-Code
+# https://github.com/symless/synergy/wiki/Compiling
+# https://github.com/symless/synergy/issues/5529
+
+# yes "y" | wget -P ~/Downloads  "https://github.com/symless/synergy/archive/master.zip"
+# yes "y" | unzip ~/Downloads/synergy-master.zip -d ~/src/
+
+sudo apt-get -y install cmake make g++ xorg-dev libqt4-dev libcurl4-openssl-dev libavahi-compat-libdnssd-dev libssl-dev libx11-dev
+
+cd ~/src
+
+git clone https://github.com/symless/synergy.git synergy
+
+cd ~/src/synergy
+
+QT_SELECT=4
+ ./hm.sh conf -g1
+ ./hm.sh build
+ ./hm.sh package deb
+
+sudo dpkg -i ~/src/synergy/bin/synergy-master-stable-ec56ac4-Linux-x86_64.deb

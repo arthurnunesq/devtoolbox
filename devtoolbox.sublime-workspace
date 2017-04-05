@@ -20,7 +20,7 @@
 			"file": "ubuntu_bootstrap",
 			"settings":
 			{
-				"buffer_size": 2682,
+				"buffer_size": 2991,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -191,15 +191,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2682,
+						"buffer_size": 2991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1588,
-								1588
+								2991,
+								2991
 							]
 						],
 						"settings":
@@ -207,7 +207,7 @@
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 357.0,
+						"translation.y": 663.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
