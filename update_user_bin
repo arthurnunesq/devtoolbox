@@ -5,6 +5,11 @@
 SRC_DIR=/home/$USER/src/devtoolbox
 DST_DIR=/home/$USER/bin
 
+if [ ! -d $DST_DIR ]; then
+	echo "~/bin directory does not exist and will be created. Please logoff so that it will be added to the PATH."
+    mkdir -p $DST_DIR
+fi
+
 find -L $DST_DIR -maxdepth 1 -type l -delete
 ln -f -s $SRC_DIR/* $DST_DIR
 
