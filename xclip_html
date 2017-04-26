@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# http://askubuntu.com/questions/394228/bash-colored-copy-paste
+aha | xsel -i -b
+
+

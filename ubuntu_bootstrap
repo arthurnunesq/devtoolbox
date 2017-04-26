@@ -10,6 +10,9 @@
 sudo apt-get -y install git
 sudo apt-get -y install ruby
 sudo apt-get -y install xclip
+# http://askubuntu.com/questions/394228/bash-colored-copy-paste
+sudo apt-get install aha
+sudo apt-get install xsel
 
 # Enables "open in terminal" from the context menu
 # http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu
@@ -26,6 +29,10 @@ sudo apt-get -y install enscript
 # http://unix.stackexchange.com/a/17417/122789
 sudo apt-get -y install paps
 
+# Tools for extracting text from pictures
+# https://askubuntu.com/questions/280475/how-can-instantaneously-extract-text-from-a-screen-area-using-ocr-tools
+sudo apt-get -y install tesseract-ocr imagemagick scrot xsel
+sudo apt-get -y install tesseract-ocr-por
 
 # Fixes mouse scroll wheel behavior
 # http://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed

@@ -8,10 +8,18 @@
 	"buffers":
 	[
 		{
-			"file": "text2pdf",
+			"file": "xclip_html",
 			"settings":
 			{
-				"buffer_size": 199,
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "textfromscreen",
+			"settings":
+			{
+				"buffer_size": 604,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -20,16 +28,7 @@
 			"file": "ubuntu_bootstrap",
 			"settings":
 			{
-				"buffer_size": 2991,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "switch_gcc",
-			"settings":
-			{
-				"buffer_size": 317,
+				"buffer_size": 3382,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -82,7 +81,11 @@
 	],
 	"file_history":
 	[
+		"/home/arthur/src/devtoolbox/xclip_html",
+		"/home/arthur/src/devtoolbox/text2pdf",
 		"/home/arthur/src/devtoolbox/ubuntu_bootstrap",
+		"/home/arthur/src/devtoolbox/get_synergy",
+		"/home/arthur/src/devtoolbox/switch_gcc",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_02/arthur_queiroz_exe_list_module_02.txt",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/arthur_queiroz_exe_list_01.txt",
 		"/media/arthur/OneDrive/OneDrive/curso_cpp_moderno/curso_cpp_moderno/exe_list_01/exe_02/compilation",
@@ -159,19 +162,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "text2pdf",
+					"file": "xclip_html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 199,
+						"buffer_size": 104,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								0,
+								0
 							]
 						],
 						"settings":
@@ -187,27 +190,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "ubuntu_bootstrap",
+					"file": "textfromscreen",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2991,
+						"buffer_size": 604,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2991,
-								2991
+								213,
+								213
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 663.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -215,19 +219,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "switch_gcc",
+					"file": "ubuntu_bootstrap",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 317,
+						"buffer_size": 3382,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								270,
-								270
+								0,
+								0
 							]
 						],
 						"settings":

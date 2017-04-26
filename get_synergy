@@ -20,4 +20,5 @@ QT_SELECT=4
  ./hm.sh build
  ./hm.sh package deb
 
-sudo dpkg -i ~/src/synergy/bin/synergy-master-stable-ec56ac4-Linux-x86_64.deb
+dpkg -c ~/src/synergy/bin/synergy-*
+sudo dpkg -i ~/src/synergy/bin/synergy-*
